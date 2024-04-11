@@ -3,3 +3,5 @@ R scripts
 metadata 
 manifest file ?
 key outputs (those used in other functions and those important for conclusions) 
+
+don't include sequence files because they're too big 
